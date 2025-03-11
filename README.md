@@ -10,6 +10,8 @@ command `py -3 -m venv venv`
 
 In the terminal: command `venv\Scripts\activate.bat`
 
+Command: `pip install fastapi[all]`
+
 ## Run Code
 `uvicorn main:app`
 - uvicorn: the live server
