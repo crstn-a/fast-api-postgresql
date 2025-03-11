@@ -1,0 +1,8 @@
+Purpose of venv:
+- to have an isolated package version that are compatible to your own project.
+
+Purpose of Schemas: 
+- It's hard to get all the values from the body.
+- the data isn't getting validated.
+- force the user to sent data in a schema that we expect.
+- use pydantic to define schemas what it should look like.
