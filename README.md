@@ -1,5 +1,5 @@
 # Get Started
-Install python <a href = "https://www.python.org/downloads/"</a>
+Install python "https://www.python.org/downloads/"
 
 Create a project folder in your preferred IDE.
 
